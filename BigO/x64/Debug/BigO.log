@@ -1,0 +1,12 @@
+﻿  bigO.cpp
+C:\Users\StephenCarragher-Kel\source\repos\BigO\BigO\bigO.cpp(73,20): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+      C:\Users\StephenCarragher-Kel\source\repos\BigO\BigO\bigO.cpp(73,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\StephenCarragher-Kel\source\repos\BigO\BigO\bigO.cpp(51,30):
+          see reference to function template instantiation 'double measureTime<linearSearchFunction>(FuncType)' being compiled
+          with
+          [
+              FuncType=linearSearchFunction
+          ]
+  
+  BigO.vcxproj -> C:\Users\StephenCarragher-Kel\source\repos\BigO\x64\Debug\BigO.exe
